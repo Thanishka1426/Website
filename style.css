@@ -1,6 +1,7 @@
 body{
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
+    background-color: lightpink;
 }
 .topnav {
     overflow: hidden;
@@ -21,4 +22,10 @@ body{
 .topnav a.active {
     background-color: #ffe066;
     color: black;
+}
+p{
+    font-size: 20px;
+    line-height: 1.6;
+    margin: 20px;
+    text-align: justify;
 }
